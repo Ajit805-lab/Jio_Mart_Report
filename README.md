@@ -28,6 +28,7 @@ for creating new column following expression was written;
 	(else "4 to 5")
 
 snap of calculated columns:
+
 ![Image](https://github.com/user-attachments/assets/e66789bd-a301-493b-9ba4-1c41c307fdeb)
 
 
@@ -39,9 +40,11 @@ snap of calculated columns:
 A card was used to represent market price.
 
 snap_of_total_mrket_price:
+
 ![Image](https://github.com/user-attachments/assets/2a123ae7-4e6a-4662-887e-c3001a199aa1)
 
 snap_of_avg_market_price:
+
 ![Image](https://github.com/user-attachments/assets/08f39e85-f294-4e53-9a64-258120307b61)
 
 -Step-6 : New measure was created to find total sale price and avg sale price.
@@ -52,9 +55,11 @@ snap_of_avg_market_price:
 A card was used to represent sale price.
 
 snap_of_total_sale_price:
+
 ![Image](https://github.com/user-attachments/assets/336d8e56-3b4f-4f2a-ab55-732a16afc360)
 
 snap_of_avg_sale_price:
+
 ![Image](https://github.com/user-attachments/assets/8d37ab8c-53cc-4720-805f-7e1c75478091)
 
 -Step-7 : New measure was created to find count of product type.
@@ -64,6 +69,7 @@ snap_of_avg_sale_price:
 A card was used to represent count of type.
 
 snap_of_count type:
+
 ![Image](https://github.com/user-attachments/assets/575ed9f3-4443-443f-8706-8f7237305887)
 
 # Snap of report:
