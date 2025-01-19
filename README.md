@@ -1,6 +1,6 @@
 # Jio_Mart_Report:
 
-Dashboard link:https://1drv.ms/u/c/97ecacf04094eef0/EZvJWJv4hhtGge2JGBWnhFIBCVFZXwn7kagU66sk-ql5UQ?e=Gbg2ik
+Report link:https://1drv.ms/u/c/97ecacf04094eef0/EZvJWJv4hhtGge2JGBWnhFIBCVFZXwn7kagU66sk-ql5UQ?e=Gbg2ik
 
 # Problem Statement:
 This report help you understand about customer behaviour and price about the product also. 
