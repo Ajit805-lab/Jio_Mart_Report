@@ -15,8 +15,8 @@ Steps followed:
 -Step-4 : There are 2 calculated columns created one is "Type of Price" and another is "Rating group"
 
 for creating new column following expression was written;
-       Type of price=
-
+       
+  	Type of price=
 	(if sale_price = market_price (" Price as per the market")
 	(if sale_price < market_price ("under_price")
 	(else "over price")
